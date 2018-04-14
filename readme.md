@@ -1,4 +1,4 @@
-#farina
+<h1>#farina</h1>
 
 
 Para el despliegue inicial de la aplicación es necesario hacer la migracion de la base de datos (php artisan migration) para generar las tablas correspondientes y en la sección "tweets" hacer clic en el botón "Actualizar Tweets" para recuperar los 100 tweets iniciales.
